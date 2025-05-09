@@ -1,0 +1,151 @@
+Customer Statement,Message Length,Platform Type,Submission Channel,Response Time (sec),Resolution Time (min),Issue Category
+The  shutdown unexpectedly while I was working on a report.,11,Web,Phone,16,6,Software Issue
+Software force close happens every time I open the dashboard.,10,Mobile App,Email,3776,1603,Software Issue
+It triggers a software quit before I can even log in.,11,Web,Live Chat,21,12,Software Issue
+I edited the file but nothing saved. A classic software not saving bug.,14,Mobile App,Phone,53,4,Software Issue
+Submission keeps failing with a software form error message.,9,Desktop,Phone,116,3,Software Issue
+Software auto logout occurs while I’m still using the app.,10,Desktop,Live Chat,26,14,Software Issue
+I get a blank screen after the loading icon disappears.,11,Mobile App,Phone,41,6,Software Issue
+The login page is stuck forever.,8,Mobile App,Live Chat,22,10,Software Issue
+"After the update, there’s a major software missing feature in reports.",11,Web,Email,6772,515,Software Issue
+Clicking save does nothing. Definitely a software button issue.,10,Mobile App,Phone,36,4,Software Issue
+I installed the patch and now the software update broke basic functionality.,12,Desktop,Email,6712,2637,Software Issue
+The settings tab has a software broken layout. Everything is misaligned.,12,Mobile App,Email,1356,521,Software Issue
+No doubt it’s a software issue. The buttons won’t even click.,12,Web,Live Chat,12,1,Software Issue
+"Since this morning, I’ve had a software issue with data disappearing.",11,Mobile App,Phone,75,5,Software Issue
+Trying to submit forms results in a strange software issue warning.,11,Mobile App,Email,6218,1792,Software Issue
+Software shutdown happens as soon as I select a project file.,11,Desktop,Phone,17,7,Software Issue
+Software force close happens even in safe mode.,8,Desktop,Phone,82,6,Software Issue
+Unexpected software quit on startup. Won’t even reach the login screen.,12,Mobile App,Phone,63,7,Software Issue
+Editing text fields causes a software not saving glitch every time.,11,Mobile App,Email,7116,1316,Software Issue
+I’m stuck again because of a software form error during checkout.,11,Web,Live Chat,18,2,Software Issue
+It logs me out instantly. Another recurring auto logout issue.,12,Desktop,Live Chat,18,1,Software Issue
+I’ve reported this software blank screen problem multiple times.,9,Web,Phone,47,4,Software Issue
+Loading stuck has become a daily issue in your software.,10,Desktop,Email,6895,138,Software Issue
+Where did the export tool go? Looks like a software missing feature.,12,Mobile App,Phone,24,7,Software Issue
+Even the help button has a software button issue now.,10,Mobile App,Phone,111,6,Software Issue
+Clearly this was caused by the last patch. Another update broke something.,14,Desktop,Live Chat,5,12,Software Issue
+The sidebar has a strange software broken layout today.,9,Desktop,Live Chat,26,4,Software Issue
+There’s a new software issue every week with your platform.,10,Mobile App,Email,1177,1105,Software Issue
+Every menu opens blank. Classic software issue again.,9,Desktop,Live Chat,28,6,Software Issue
+Software issue is preventing me from completing my tasks at all.,11,Web,Email,5327,2405,Software Issue
+I was overcharged for the same subscription twice.,8,Web,Phone,37,6,Billing & Payment Issue
+My refund hasn't come through even after two weeks.,9,Web,Live Chat,22,11,Billing & Payment Issue
+The payment went through but I didn’t get a confirmation.,10,Mobile App,Email,6294,1878,Billing & Payment Issue
+Why was my card charged an extra fee this month?,10,Mobile App,Email,3442,2452,Billing & Payment Issue
+I noticed a billing error on last month's invoice.,9,Web,Phone,42,7,Billing & Payment Issue
+My card got declined even though it’s active.,8,Mobile App,Live Chat,12,7,Billing & Payment Issue
+I’ve requested a refund but nothing has been processed yet.,10,Web,Email,1472,2036,Billing & Payment Issue
+There's a receipt mismatch between what I paid and what's shown.,11,Mobile App,Phone,65,7,Billing & Payment Issue
+Why did this deduction happen without my approval?,8,Mobile App,Phone,21,3,Billing & Payment Issue
+The invoice I received doesn’t match the order I placed.,10,Mobile App,Phone,109,6,Billing & Payment Issue
+My refund amount is wrong. Please fix this billing issue.,10,Mobile App,Phone,92,5,Billing & Payment Issue
+Transaction failed but the amount got deducted anyway.,8,Web,Live Chat,23,1,Billing & Payment Issue
+I see a duplicate payment on my card statement.,9,Web,Live Chat,24,5,Billing & Payment Issue
+Can I get a corrected invoice for this order?,9,Desktop,Phone,35,6,Billing & Payment Issue
+I was charged even though I canceled the plan.,9,Desktop,Email,4585,2484,Billing & Payment Issue
+Card shows charged but the service is inactive.,8,Mobile App,Phone,67,4,Billing & Payment Issue
+My billing summary includes unknown charges.,6,Web,Live Chat,5,7,Billing & Payment Issue
+I didn’t authorize this transaction on my card.,8,Mobile App,Live Chat,6,7,Billing & Payment Issue
+Payment is not reflecting even after 24 hours.,8,Desktop,Phone,62,7,Billing & Payment Issue
+This payment method always fails on your site.,8,Web,Phone,99,6,Billing & Payment Issue
+I need a receipt but never got one by email.,10,Desktop,Phone,56,7,Billing & Payment Issue
+Deduction made from my wallet without warning.,7,Desktop,Live Chat,8,1,Billing & Payment Issue
+Invoice says paid but I never made the payment.,9,Mobile App,Email,3344,173,Billing & Payment Issue
+Overcharged again this month for the same plan.,8,Mobile App,Email,7031,167,Billing & Payment Issue
+I submitted a refund request but no response.,8,Mobile App,Live Chat,29,6,Billing & Payment Issue
+Refund was partial instead of full. Why?,7,Mobile App,Live Chat,22,2,Billing & Payment Issue
+I selected card but it charged my bank instead.,9,Web,Phone,97,6,Billing & Payment Issue
+Can you explain the billing for last quarter?,8,Desktop,Live Chat,11,6,Billing & Payment Issue
+This isn’t my transaction. Looks like fraud.,7,Web,Email,5525,635,Billing & Payment Issue
+I was charged twice for one. Time purchase.,8,Desktop,Email,5159,2584,Billing & Payment Issue
+WiFi drops constantly even when signal is full.,8,Desktop,Email,4801,263,Connectivity Issue
+Every few minutes my device disconnects from the network.,9,Web,Email,3707,2853,Connectivity Issue
+App stays offline no matter what I try.,8,Desktop,Phone,65,5,Connectivity Issue
+VPN keeps disconnecting whenever I log in.,7,Web,Phone,54,7,Connectivity Issue
+My network is unstable during video calls.,7,Web,Phone,115,4,Connectivity Issue
+There’s constant lag even on basic websites.,7,Mobile App,Live Chat,15,5,Connectivity Issue
+WiFi timeout happens every time I switch pages.,8,Desktop,Email,1156,1568,Connectivity Issue
+Signal is weak despite being next to the router.,9,Desktop,Phone,105,6,Connectivity Issue
+I had to reset the router three times today.,9,Desktop,Email,5294,393,Connectivity Issue
+Nothing loads unless I toggle airplane mode.,7,Desktop,Email,1990,2713,Connectivity Issue
+VPN refuses to connect without giving a reason.,8,Mobile App,Email,3080,1656,Connectivity Issue
+Network status says connected but I have no access.,9,Web,Live Chat,5,5,Connectivity Issue
+Lag spikes keep affecting my online work.,7,Desktop,Live Chat,18,2,Connectivity Issue
+I can’t join meetings due to repeated disconnect.,8,Mobile App,Email,5230,1499,Connectivity Issue
+Offline mode appears while I’m clearly online.,7,Web,Live Chat,24,9,Connectivity Issue
+Pages fail to load because of timeout errors.,8,Mobile App,Live Chat,14,4,Connectivity Issue
+Router is working but device won’t connect.,7,Mobile App,Email,5064,2609,Connectivity Issue
+Signal strength is high but connection fails.,7,Mobile App,Phone,24,5,Connectivity Issue
+It logs out when switching WiFi networks.,7,Web,Email,5444,633,Connectivity Issue
+Frequent disconnects ruin my workflow daily.,6,Web,Phone,23,5,Connectivity Issue
+I can’t use the internet without lag.,7,Web,Live Chat,17,5,Connectivity Issue
+WiFi shows full bars but nothing loads.,7,Desktop,Email,1413,595,Connectivity Issue
+App displays network error even when on 5G.,8,Web,Email,1836,987,Connectivity Issue
+VPN drops during long sessions repeatedly.,6,Desktop,Email,5994,2037,Connectivity Issue
+Router keeps rebooting during use.,5,Mobile App,Phone,36,7,Connectivity Issue
+Disconnect happens if I change locations.,6,Web,Live Chat,10,2,Connectivity Issue
+Streaming lags constantly despite good internet.,6,Web,Live Chat,17,4,Connectivity Issue
+WiFi randomly turns off and on.,6,Desktop,Email,2838,436,Connectivity Issue
+Timeout occurs during checkout process.,5,Desktop,Phone,55,3,Connectivity Issue
+Signal disappears after system sleeps.,5,Desktop,Phone,35,6,Connectivity Issue
+I can’t login even with the correct password.,8,Mobile App,Live Chat,23,1,Account & Login Issue
+Account got locked after just two wrong attempts.,8,Mobile App,Phone,96,3,Account & Login Issue
+The reset link expired before I could use it.,9,Desktop,Email,6659,1926,Account & Login Issue
+I didn’t receive any OTP on my phone.,8,Web,Phone,36,4,Account & Login Issue
+Two - Factor fails every time I try to verify.,9,Desktop,Phone,11,7,Account & Login Issue
+Login is blocked due to suspicious activity.,7,Desktop,Email,3118,306,Account & Login Issue
+I entered the right code but it says invalid.,9,Desktop,Email,4828,1318,Account & Login Issue
+The email with the reset code never arrived.,8,Mobile App,Live Chat,5,13,Account & Login Issue
+I’m stuck in a reset loop and can’t access my account.,11,Web,Live Chat,15,12,Account & Login Issue
+MFA fails even with backup codes.,6,Mobile App,Phone,46,4,Account & Login Issue
+I can’t log in through Duo anymore.,7,Web,Live Chat,13,13,Account & Login Issue
+Verification step doesn’t go through at all.,7,Desktop,Phone,13,4,Account & Login Issue
+2FA is enabled but it keeps asking again.,8,Mobile App,Email,4953,2255,Account & Login Issue
+Password reset says success but login fails.,7,Desktop,Phone,99,4,Account & Login Issue
+Login page keeps refreshing without reason.,6,Desktop,Phone,107,4,Account & Login Issue
+Account recovery isn’t working after lockout.,6,Mobile App,Email,5673,737,Account & Login Issue
+Code sent to email doesn’t work on app.,8,Mobile App,Email,1458,1410,Account & Login Issue
+Blocked from logging in due to timeout.,7,Mobile App,Phone,11,5,Account & Login Issue
+Two - Factor prompt disappears immediately.,5,Web,Live Chat,21,2,Account & Login Issue
+Access denied despite having valid credentials.,6,Mobile App,Email,3402,1442,Account & Login Issue
+Duo code expired before I entered it.,7,Mobile App,Live Chat,20,14,Account & Login Issue
+System keeps rejecting my OTP.,5,Desktop,Live Chat,20,5,Account & Login Issue
+Reset link takes me to an error page.,8,Web,Email,7080,971,Account & Login Issue
+Authentication fails without a clear error.,6,Web,Email,6066,2279,Account & Login Issue
+I lost access after enabling MFA.,6,Desktop,Email,4664,122,Account & Login Issue
+Even new passwords don’t let me log in.,8,Mobile App,Phone,23,7,Account & Login Issue
+Nothing happens after clicking the login button.,7,Web,Phone,10,7,Account & Login Issue
+I’m asked for 2fa even after disabling it.,8,Mobile App,Email,3939,885,Account & Login Issue
+App login fails but works on desktop.,7,Desktop,Phone,110,5,Account & Login Issue
+Verification process takes too long and fails.,7,Mobile App,Live Chat,26,15,Account & Login Issue
+My laptop gets extremely hot even when I’m just checking emails.,11,Desktop,Email,5802,2840,Technical Issue
+The fan keeps spinning loudly even when the system is idle.,11,Desktop,Phone,55,6,Technical Issue
+My device shuts down randomly without warning.,7,Web,Email,4918,1640,Technical Issue
+It refuses to boot past the manufacturer logo.,8,Mobile App,Phone,93,4,Technical Issue
+I press the power button and nothing happens.,8,Desktop,Email,5781,2243,Technical Issue
+Battery drops from 90% to zero in under an hour.,10,Web,Phone,39,7,Technical Issue
+The system crashes whenever I try to open any files.,10,Desktop,Phone,87,7,Technical Issue
+"Every time I leave it idle, it freezes and won’t respond.",11,Desktop,Phone,32,3,Technical Issue
+I’m getting a BIOS error on startup and can’t move past it.,12,Web,Phone,119,5,Technical Issue
+The screen stays completely black even though the power light is on.,12,Desktop,Email,7163,853,Technical Issue
+It overheats the moment I plug in the charger.,9,Desktop,Live Chat,8,9,Technical Issue
+I hear a loud fan sound as soon as the laptop starts.,12,Desktop,Email,2338,2687,Technical Issue
+The system shuts off instantly while running basic tasks.,9,Web,Phone,79,3,Technical Issue
+It powers on but gets stuck before loading the OS.,10,Web,Phone,55,6,Technical Issue
+The power button lights up but there’s no actual startup.,10,Mobile App,Email,4083,894,Technical Issue
+My battery used to last all day but now it barely holds for an hour.,15,Mobile App,Live Chat,19,5,Technical Issue
+"After ten minutes of use, the system crashes without any error.",11,Desktop,Phone,55,3,Technical Issue
+The machine freezes during Zoom calls and has to be restarted manually.,12,Web,Live Chat,10,5,Technical Issue
+BIOS screen keeps looping and won’t let me boot into Windows.,11,Desktop,Phone,92,4,Technical Issue
+I can hear it running but nothing shows on the screen.,11,Web,Email,6005,1460,Technical Issue
+The fan is constantly whirring like it’s overheating.,8,Web,Phone,17,5,Technical Issue
+"After updates, it no longer boots properly.",7,Desktop,Phone,24,5,Technical Issue
+"When unplugged, the battery drops 20% in five minutes.",9,Mobile App,Live Chat,15,13,Technical Issue
+"No matter what I try, the system keeps freezing every few hours.",12,Mobile App,Live Chat,23,8,Technical Issue
+It turns off completely whenever I try to charge it.,10,Mobile App,Email,2621,1202,Technical Issue
+The laptop has no display output when I connect it to a monitor.,13,Mobile App,Phone,28,6,Technical Issue
+Every restart leads to a crash right before login.,9,Desktop,Phone,16,7,Technical Issue
+It froze while installing drivers and now won’t power back on.,11,Desktop,Phone,49,6,Technical Issue
+BIOS setup opens every time I try to start the device.,11,Desktop,Phone,26,7,Technical Issue
+"I’ve tried everything, but the screen remains blank on boot.",10,Web,Live Chat,15,2,Technical Issue
