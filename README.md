@@ -9,15 +9,16 @@ This project is focused on developing a dual-machine learning solution to stream
 
 ## Folder Structure
 
+```plaintext
 CustomerComplaintML/
-│
 ├── data/
-│ └── Project Data.csv
+│   └── Project Data.csv
 ├── notebooks/
-│ ├── CustomerComplaint_IssueClassification.ipynb
-│ └── CustomerComplaint_ResolutionTimePrediction.ipynb
+│   ├── CustomerComplaint_IssueClassification.ipynb
+│   └── CustomerComplaint_ResolutionTimePrediction.ipynb
 ├── .gitignore
-└── README.md
+├── README.md
+
 
 
 ---
